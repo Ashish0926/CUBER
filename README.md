@@ -9,7 +9,7 @@ ScreenShots :
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/55145996/116692870-b0da6700-a9da-11eb-91e9-b2d806b8c29a.png)
 
-![Screenshot (92)](https://user-images.githubusercontent.com/55145996/116692892-b89a0b80-a9da-11eb-9087-f84c388aa69a.png)
+
 
 Video Trailer :
 
