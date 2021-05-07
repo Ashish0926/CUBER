@@ -1,4 +1,4 @@
-# CUBER
+# CUBER®
 A multi-level platform game developed for Windows using Unity Game Engine and C#
 
 ScreenShots :
